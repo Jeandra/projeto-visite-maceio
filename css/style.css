@@ -4,17 +4,17 @@
 }
 
 body{
-    background-color: yellowgreen;
+    background-color: rgb(14, 184, 141);
 }
 
 main{
     background-color: white;
-    width: 500px;
+    width: 700px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.281);
 }
 
 img.centro{
-    float: center;
+   justify-items: center;
 }
