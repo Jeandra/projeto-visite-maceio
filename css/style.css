@@ -19,4 +19,13 @@ img.centro{
    align-items: center;
 }
 
-h2
+h1{
+    font-size: 3em;
+    color: rgb(68, 7, 167);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-size: 1.5em;
+    color:rgb(68, 7, 167) ;
+}
